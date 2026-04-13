@@ -77,10 +77,10 @@ print(df.head())
 | absorbed.fun  | resell    | $4.99     | $46.99        | 72             | 4      | 8      | WEDOS Internet, a.s.          |
 | seventeen.fun | premium   | $781.25   | $3,125        | 84             | 62     | 9      | name.com                      |
 | collision.fun | available | $4.99     | —             | 64             | 14     | 9      | name.com                      |
-| destroyed.fun | resell    | $4.99     | $46.99        | 52             | 4      | 9      | WEDOS Internet, a.s.          |
+| limiting.fun  | resell    | $4.99     | $46.99        | 65             | 4      | 8      | WEDOS Internet, a.s.          |
 | ace.fun       | premium   | $1,562.50 | $6,250        | 88             | 57     | 3      | name.com                      |
 | exhale.fun    | available | $4.99     | —             | 76             | 12     | 6      | name.com                      |
-| limiting.fun  | resell    | $4.99     | $46.99        | 65             | 3      | 8      | WEDOS Internet, a.s.          |
+| destroyed.fun | resell    | $4.99     | $46.99        | 52             | 4      | 9      | WEDOS Internet, a.s.          |
 | business.fun  | premium   | $1,625    | $6,500        | 100            | 53     | 8      | namecheap                     |
 | gforce.fun    | available | $4.99     | —             | 76             | 12     | 7      | name.com                      |
 | panoramic.fun | resell    | —         | —             | 88             | 97     | 9      | West263 International Limited |
