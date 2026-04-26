@@ -1,22 +1,22 @@
-# Available .FUN One-Word Domains (7,857)
+# Available .FUN One-Word Domains (9,932)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C857%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C857%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C932%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .fun one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .fun one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,932 domains** on the canonical page below.
 
-**Public extract:** 7,857 rows · **Live catalog:** 7,857 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,932 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/fun`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FUN one-word domain c
 
 ### Files
 
-- `fun.csv` — public CSV extract (7,857 rows)
-- `fun.json` — public JSON extract (7,857 rows)
+- `fun.csv` — public CSV extract (1,000 rows)
+- `fun.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| masterly.fun  | available | $4.99     | $46.99        | 79             | 18     | 8      | name.com                      |
-| concealed.fun | resell    | $4.99     | $46.99        | 59             | 8      | 9      | WEDOS Internet, a.s.          |
-| own.fun       | premium   | $781.25   | —             | 90             | 70     | 3      | name.com                      |
-| signin.fun    | available | $4.99     | —             | 74             | 16     | 7      | name.com                      |
-| admirable.fun | resell    | $4.99     | $46.99        | 74             | 7      | 9      | WEDOS Internet, a.s.          |
-| sense.fun     | premium   | $312.50   | —             | 84             | 63     | 5      | name.com                      |
-| enemy.fun     | available | $4.99     | —             | 68             | 14     | 5      | name.com                      |
-| possess.fun   | resell    | $4.99     | —             | 78             | 5      | 7      | WEDOS Internet, a.s.          |
-| power.fun     | premium   | $812.50   | $3,250        | 98             | 62     | 5      | namecheap                     |
-| lockbox.fun   | available | $4.99     | —             | 68             | 14     | 7      | name.com                      |
-| absorbed.fun  | resell    | $4.99     | $46.99        | 72             | 4      | 8      | WEDOS Internet, a.s.          |
-| seventeen.fun | premium   | $781.25   | $3,125        | 84             | 62     | 9      | name.com                      |
-| collision.fun | available | $4.99     | —             | 64             | 14     | 9      | name.com                      |
-| limiting.fun  | resell    | $4.99     | $46.99        | 65             | 4      | 8      | WEDOS Internet, a.s.          |
-| ace.fun       | premium   | $1,562.50 | $6,250        | 88             | 57     | 3      | name.com                      |
-| exhale.fun    | available | $4.99     | —             | 76             | 12     | 6      | name.com                      |
-| destroyed.fun | resell    | $4.99     | $46.99        | 52             | 4      | 9      | WEDOS Internet, a.s.          |
-| business.fun  | premium   | $1,625    | $6,500        | 100            | 53     | 8      | namecheap                     |
-| gforce.fun    | available | $4.99     | —             | 76             | 12     | 7      | name.com                      |
-| panoramic.fun | resell    | —         | —             | 88             | 97     | 9      | West263 International Limited |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| RedSox.fun        | available | $33.48    | —             | 72             | 60     | 7      | namecheap                                               |
+| movies.fun        | resell    | —         | —             | 80             | 28     | 6      | NAME DOT STORE INC                                      |
+| winners.fun       | premium   | $156.25   | —             | 60             | 81     | 7      | name.com                                                |
+| jetlag.fun        | available | $4.99     | —             | 72             | 17     | 7      | name.com                                                |
+| seeds.fun         | resell    | —         | —             | 59             | 28     | 5      | West263 International Limited                           |
+| travelers.fun     | premium   | $312.50   | —             | 58             | 61     | 9      | name.com                                                |
+| policies.fun      | available | $4.99     | —             | 54             | 16     | 8      | name.com                                                |
+| principles.fun    | resell    | —         | —             | 58             | 27     | 10     | West263 International Limited                           |
+| Books.fun         | premium   | $1,750    | $7,000        | 52             | 49     | 5      | namecheap                                               |
+| ingredients.fun   | available | $4.99     | —             | 56             | 14     | 11     | name.com                                                |
+| transparency.fun  | resell    | —         | —             | 86             | 23     | 12     | West263 International Limited                           |
+| jobs.fun          | premium   | $1,562.50 | —             | 79             | 42     | 4      | name.com                                                |
+| moveit.fun        | available | $4.99     | —             | 77             | 13     | 7      | name.com                                                |
+| distributed.fun   | resell    | —         | —             | 64             | 21     | 11     | Dynadot Inc                                             |
+| matcha.fun        | premium   | $156.25   | —             | 86             | 39     | 6      | name.com                                                |
+| rollout.fun       | available | $4.99     | —             | 72             | 13     | 8      | name.com                                                |
+| GreenPark.fun     | resell    | —         | —             | 72             | 17     | 10     | Atak Domain Bilgi Teknolojileri A.Ş.                    |
+| justin.fun        | premium   | $312.50   | —             | 58             | 38     | 7      | name.com                                                |
+| socialcapital.fun | available | $4.99     | —             | 64             | 13     | 14     | name.com                                                |
+| shows.fun         | resell    | —         | —             | 66             | 16     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,857-row public sample | 7,857 live domains                               |
+| 1,000-row public sample | 9,932 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUN One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUN One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
