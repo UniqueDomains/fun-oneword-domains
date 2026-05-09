@@ -774,6 +774,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4b7a28a5-7cec-48bc-9509-b363376d4423,tapinto.fun,available,4.99,,68,11,8,name.com,,
 4b7b2604-50f8-4556-937a-13f15da64f3e,asoftenasnot.fun,available,4.99,,40,1,15,name.com,,
 4b8562b4-7bf4-4043-9239-479c46845898,costofgoodssold.fun,available,4.99,,62,1,18,name.com,,
+4baf8b68-c2d5-41f2-b48d-396a71dedd8e,sam.fun,premium,,,80,54,3,,,
 4bbd6547-c671-488c-a80e-020efd9477e5,grandfathers.fun,available,2.99,41.99,68,3,12,namesilo,,
 4bd55ef7-09e0-41c5-9c06-0bfb7c633459,requests.fun,available,4.99,,56,10,8,name.com,,
 4c087362-c341-44e2-894e-d315e9d2c997,suggestions.fun,available,4.99,,56,5,11,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 617d7148-da43-41bd-9242-35824e7ecca8,desktoppublishing.fun,available,4.99,,66,3,18,name.com,,
 618e43e6-3670-4d14-ac89-dc9c8db3067a,exclamations.fun,available,4.99,,50,2,12,name.com,,
 61933f5b-5014-445f-9cfc-7dcf85a0ef5c,coffeegrounds.fun,available,4.99,,72,2,14,name.com,,
-61a3ef11-955b-49fe-80d1-d845ad32c7dc,cheeseit.fun,available,4.99,,54,2,9,name.com,,
