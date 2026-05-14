@@ -76,7 +76,7 @@ print(df.head())
 | fasttimes.fun   | available | $4.99     | —             | 80             | 3      | 10     | name.com                      |
 | herbaltea.fun   | available | $4.99     | —             | 80             | 5      | 10     | name.com                      |
 | RedSox.fun      | available | $33.48    | —             | 72             | 60     | 7      | namecheap                     |
-| movies.fun      | resell    | —         | —             | 80             | 28     | 6      | NAME DOT STORE INC            |
+| movies.fun      | resell    | —         | —             | 80             | 28     | 6      | Namify Domains Inc            |
 | winners.fun     | premium   | $156.25   | —             | 60             | 81     | 7      | name.com                      |
 | jetlag.fun      | available | $4.99     | —             | 72             | 17     | 7      | name.com                      |
 | seeds.fun       | resell    | —         | —             | 59             | 28     | 5      | West263 International Limited |
