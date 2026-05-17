@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fun one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 10,465 domains · **Median ask:** $140.83 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/fun`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| dogsit.fun      | available | $4.99     | —             | 96             | 2      | 6      | name.com                      |
-| toneup.fun      | available | $4.99     | —             | 80             | 5      | 7      | name.com                      |
-| leaveon.fun     | available | $4.99     | —             | 80             | 1      | 8      | name.com                      |
-| fitinto.fun     | available | $4.99     | —             | 84             | 2      | 8      | name.com                      |
-| chaitea.fun     | available | $4.99     | —             | 86             | 3      | 8      | name.com                      |
-| dogstail.fun    | available | $4.99     | —             | 94             | 1      | 8      | name.com                      |
-| becalled.fun    | available | $2.99     | $41.99        | 86             | 2      | 9      | namesilo                      |
-| turninto.fun    | available | $4.99     | —             | 86             | 2      | 9      | name.com                      |
-| cuddleup.fun    | available | $4.99     | —             | 89             | 4      | 9      | name.com                      |
-| fasttimes.fun   | available | $4.99     | —             | 80             | 3      | 10     | name.com                      |
-| herbaltea.fun   | available | $4.99     | —             | 80             | 5      | 10     | name.com                      |
-| RedSox.fun      | available | $33.48    | —             | 72             | 60     | 7      | namecheap                     |
-| movies.fun      | resell    | —         | —             | 80             | 28     | 6      | Namify Domains Inc            |
-| winners.fun     | premium   | $156.25   | —             | 60             | 81     | 7      | name.com                      |
-| jetlag.fun      | available | $4.99     | —             | 72             | 17     | 7      | name.com                      |
-| consensus.fun   | resell    | —         | —             | 78             | 26     | 9      | Spaceship, Inc.               |
-| Books.fun       | premium   | $1,750    | $7,000        | 52             | 49     | 5      | namecheap                     |
-| ingredients.fun | available | $4.99     | —             | 56             | 14     | 11     | name.com                      |
-| seeds.fun       | resell    | —         | —             | 59             | 23     | 5      | West263 International Limited |
-| jobs.fun        | premium   | $1,562.50 | —             | 79             | 42     | 4      | name.com                      |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| dogsit.fun      | available | $4.99     | —             | 96             | 2      | 6      | name.com                                            |
+| toneup.fun      | available | $4.99     | —             | 80             | 5      | 7      | name.com                                            |
+| leaveon.fun     | available | $4.99     | —             | 80             | 1      | 8      | name.com                                            |
+| fitinto.fun     | available | $4.99     | —             | 84             | 1      | 8      | name.com                                            |
+| chaitea.fun     | available | $4.99     | —             | 86             | 3      | 8      | name.com                                            |
+| dogstail.fun    | available | $4.99     | —             | 94             | 1      | 8      | name.com                                            |
+| becalled.fun    | available | $2.99     | $41.99        | 86             | 2      | 9      | namesilo                                            |
+| turninto.fun    | available | $4.99     | —             | 86             | 3      | 9      | name.com                                            |
+| cuddleup.fun    | available | $4.99     | —             | 89             | 4      | 9      | name.com                                            |
+| fasttimes.fun   | available | $4.99     | —             | 80             | 3      | 10     | name.com                                            |
+| herbaltea.fun   | available | $4.99     | —             | 80             | 5      | 10     | name.com                                            |
+| RedSox.fun      | available | $33.48    | —             | 72             | 60     | 7      | namecheap                                           |
+| ingredients.fun | resell    | $4.99     | —             | 56             | 14     | 11     | Chengdu West Dimension Digital Technology Co., Ltd. |
+| winners.fun     | premium   | $156.25   | —             | 60             | 81     | 7      | name.com                                            |
+| jetlag.fun      | available | $4.99     | —             | 72             | 17     | 7      | name.com                                            |
+| movies.fun      | resell    | —         | —             | 80             | 28     | 6      | Namify Domains Inc                                  |
+| Books.fun       | premium   | $1,750    | $7,000        | 52             | 49     | 5      | namecheap                                           |
+| moveit.fun      | available | $4.99     | —             | 77             | 13     | 7      | name.com                                            |
+| consensus.fun   | resell    | —         | —             | 78             | 26     | 9      | Spaceship, Inc.                                     |
+| jobs.fun        | premium   | $1,562.50 | —             | 79             | 42     | 4      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUN One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUN One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
