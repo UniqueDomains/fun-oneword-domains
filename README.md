@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fun one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 14,989 domains · **Median ask:** $156.97 · **High-demand under $2,500:** 28
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/fun`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| beauty.fun    | premium   | $1,562.50 | —             | high           | low    | 6      | name.com                      |
-| clxv.fun      | available | $2.99     | $41.99        | low            | low    | 4      | namesilo                      |
-| awfully.fun   | resell    | $4.99     | —             | medium         | low    | 7      | WEDOS Internet, a.s.          |
-| abo.fun       | premium   | $156.25   | $625          | low            | low    | 3      | name.com                      |
-| cxlv.fun      | available | $2.99     | $41.99        | low            | low    | 4      | namesilo                      |
-| eliminate.fun | resell    | $4.99     | —             | medium         | low    | 9      | WEDOS Internet, a.s.          |
-| age.fun       | premium   | $1,562.50 | —             | high           | low    | 3      | name.com                      |
-| xciv.fun      | available | $3.98     | $33.48        | low            | low    | 4      | namecheap                     |
-| generally.fun | resell    | $4.99     | —             | medium         | low    | 9      | WEDOS Internet, a.s.          |
-| aid.fun       | premium   | $312.50   | —             | medium         | low    | 3      | name.com                      |
-| xcvi.fun      | available | $2.99     | $41.99        | low            | low    | 4      | namesilo                      |
-| impressed.fun | resell    | $4.99     | —             | medium         | low    | 9      | WEDOS Internet, a.s.          |
-| aim.fun       | premium   | $781.25   | —             | high           | low    | 3      | name.com                      |
-| algal.fun     | available | $2.99     | $41.99        | low            | low    | 5      | namesilo                      |
-| acts.fun      | resell    | —         | —             | medium         | low    | 4      | West263 International Limited |
-| and.fun       | premium   | $1,562.50 | —             | high           | medium | 3      | name.com                      |
-| atilt.fun     | available | $2.99     | $41.99        | low            | low    | 5      | namesilo                      |
-| lawn.fun      | resell    | —         | —             | medium         | low    | 4      | West263 International Limited |
-| awe.fun       | premium   | $78.12    | —             | high           | low    | 3      | name.com                      |
-| awned.fun     | available | $2.99     | $41.99        | low            | low    | 5      | namesilo                      |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| clxv.fun      | available | $2.99     | $41.99        | low            | low    | 4      | namesilo                                                |
+| awfully.fun   | resell    | $4.99     | —             | medium         | low    | 7      | WEDOS Internet, a.s.                                    |
+| abo.fun       | premium   | $156.25   | $625          | low            | low    | 3      | name.com                                                |
+| cxlv.fun      | available | $2.99     | $41.99        | low            | low    | 4      | namesilo                                                |
+| eliminate.fun | resell    | $4.99     | —             | medium         | low    | 9      | WEDOS Internet, a.s.                                    |
+| age.fun       | premium   | $1,562.50 | —             | high           | low    | 3      | name.com                                                |
+| xciv.fun      | available | $3.98     | $33.48        | low            | low    | 4      | namecheap                                               |
+| generally.fun | resell    | $4.99     | —             | medium         | low    | 9      | WEDOS Internet, a.s.                                    |
+| aid.fun       | premium   | $312.50   | —             | medium         | low    | 3      | name.com                                                |
+| xcvi.fun      | available | $2.99     | $41.99        | low            | low    | 4      | namesilo                                                |
+| impressed.fun | resell    | $4.99     | —             | medium         | low    | 9      | WEDOS Internet, a.s.                                    |
+| aim.fun       | premium   | $781.25   | —             | high           | low    | 3      | name.com                                                |
+| algal.fun     | available | $2.99     | $41.99        | low            | low    | 5      | namesilo                                                |
+| acts.fun      | resell    | —         | —             | medium         | low    | 4      | West263 International Limited                           |
+| and.fun       | premium   | $1,562.50 | —             | high           | medium | 3      | name.com                                                |
+| atilt.fun     | available | $2.99     | $41.99        | low            | low    | 5      | namesilo                                                |
+| lawn.fun      | resell    | —         | —             | medium         | low    | 4      | West263 International Limited                           |
+| awe.fun       | premium   | $78.12    | —             | high           | low    | 3      | name.com                                                |
+| awned.fun     | available | $2.99     | $41.99        | low            | low    | 5      | namesilo                                                |
+| leaf.fun      | resell    | —         | —             | high           | low    | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUN One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUN One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
