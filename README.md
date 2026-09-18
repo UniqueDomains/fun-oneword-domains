@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fun one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,226 domains · **Median ask:** $125.45 · **High-demand under $2,500:** 38
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/fun`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,6 @@ print(df.head())
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | beauty.fun     | premium   | $1,562.50 | —             | high           | low    | 6      | name.com                                            |
-| soft.fun       | premium   | $1,562.50 | $6,250        | high           | low    | 4      | name.com                                            |
 | clxv.fun       | available | $2.99     | $41.99        | low            | low    | 4      | namesilo                                            |
 | awfully.fun    | resell    | $4.99     | —             | medium         | low    | 7      | WEDOS Internet, a.s.                                |
 | abo.fun        | premium   | $156.25   | $625          | low            | low    | 3      | name.com                                            |
@@ -84,6 +83,7 @@ print(df.head())
 | atilt.fun      | available | $2.99     | $41.99        | low            | low    | 5      | namesilo                                            |
 | acts.fun       | resell    | —         | —             | medium         | low    | 4      | West263 International Limited                       |
 | awe.fun        | premium   | $78.12    | —             | high           | low    | 3      | name.com                                            |
+| awned.fun      | available | $2.99     | $41.99        | low            | low    | 5      | namesilo                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUN One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUN One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
