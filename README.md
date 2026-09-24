@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .fun one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,005 domains · **Median ask:** $181.20 · **High-demand under $2,500:** 29
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/fun`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| beauty.fun     | premium   | $6,900    | $6,900        | high           | low    | 6      | namesilo                                            |
 | clxv.fun       | available | $2.99     | $41.99        | low            | low    | 4      | namesilo                                            |
 | awfully.fun    | resell    | $4.99     | —             | low            | low    | 7      | WEDOS Internet, a.s.                                |
 | abo.fun        | premium   | $156.25   | $625          | medium         | low    | 3      | name.com                                            |
 | cxlv.fun       | available | $2.99     | $41.99        | low            | low    | 4      | namesilo                                            |
-| eliminate.fun  | resell    | $4.99     | —             | medium         | low    | 9      | WEDOS Internet, a.s.                                |
+| delicate.fun   | resell    | $2.99     | $41.99        | medium         | low    | 8      | namesilo                                            |
 | age.fun        | premium   | $6,900    | $6,900        | medium         | low    | 3      | namesilo                                            |
 | xciv.fun       | available | $3.98     | $33.48        | low            | low    | 4      | namecheap                                           |
-| establish.fun  | resell    | $2.99     | $41.99        | medium         | low    | 9      | namesilo                                            |
+| eliminate.fun  | resell    | $4.99     | —             | medium         | low    | 9      | WEDOS Internet, a.s.                                |
 | aid.fun        | premium   | $312.50   | —             | medium         | low    | 3      | name.com                                            |
 | xcvi.fun       | available | $2.99     | $41.99        | low            | low    | 4      | namesilo                                            |
-| generally.fun  | resell    | $4.99     | —             | medium         | low    | 9      | WEDOS Internet, a.s.                                |
+| establish.fun  | resell    | $2.99     | $41.99        | medium         | low    | 9      | namesilo                                            |
 | aim.fun        | premium   | $781.25   | —             | high           | low    | 3      | name.com                                            |
 | algal.fun      | available | $2.99     | $41.99        | low            | low    | 5      | namesilo                                            |
-| impressed.fun  | resell    | $4.99     | —             | medium         | low    | 9      | WEDOS Internet, a.s.                                |
+| generally.fun  | resell    | $4.99     | —             | medium         | low    | 9      | WEDOS Internet, a.s.                                |
 | and.fun        | premium   | $1,562.50 | —             | high           | medium | 3      | name.com                                            |
 | atilt.fun      | available | $2.99     | $41.99        | low            | low    | 5      | namesilo                                            |
-| coordinate.fun | resell    | $2.99     | $41.99        | medium         | low    | 10     | Chengdu West Dimension Digital Technology Co., Ltd. |
+| impressed.fun  | resell    | $4.99     | —             | medium         | low    | 9      | WEDOS Internet, a.s.                                |
 | awe.fun        | premium   | $78.12    | —             | high           | low    | 3      | name.com                                            |
 | awned.fun      | available | $2.99     | $41.99        | low            | low    | 5      | namesilo                                            |
+| coordinate.fun | resell    | $2.99     | $41.99        | medium         | low    | 10     | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FUN One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FUN One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
